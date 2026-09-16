@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `lang` attribute to the starting `html` tag and specify the language as **English** as follows: `<html lang="en">` 
+Reason: Assertion failed: The lang attribute does not exist
+Error : AssertionError - The lang attribute does not exist
+Timestamp: 2026-09-16 02:13:17.433138
