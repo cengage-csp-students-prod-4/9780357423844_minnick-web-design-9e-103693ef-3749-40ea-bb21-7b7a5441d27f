@@ -1,0 +1,30 @@
+
+Status: PASSED!
+Check: 1
+Test: The nav element contains a hyperlink to index.html with the text 'Home'.
+Reason: None
+Timestamp: 2026-09-23 23:07:14.348918
+
+Status: PASSED!
+Check: 2
+Test: The nav element contains a hyperlink to lessons.html with the text 'Lessons'.
+Reason: None
+Timestamp: 2026-09-23 23:07:14.349799
+
+Status: PASSED!
+Check: 3
+Test: The nav element contains a hyperlink to instructors.html with the text 'Instructors'.
+Reason: None
+Timestamp: 2026-09-23 23:07:14.350633
+
+Status: PASSED!
+Check: 4
+Test: The nav element contains a hyperlink to rentals.html with the text 'Rentals'.
+Reason: None
+Timestamp: 2026-09-23 23:07:14.351442
+
+Status: PASSED!
+Check: 5
+Test: The nav element contains a hyperlink to contact.html with the text 'Contact'.
+Reason: None
+Timestamp: 2026-09-23 23:07:14.352339
