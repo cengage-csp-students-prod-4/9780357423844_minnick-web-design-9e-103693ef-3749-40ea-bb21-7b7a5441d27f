@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Main has a div element has an id attribute with a value of contact in contact.html.
 Reason: None
-Timestamp: 2026-09-24 01:18:51.962868
+Timestamp: 2026-09-24 01:20:10.686053
 
 Status: PASSED!
 Check: 2
 Test: The div element contains 1 h2, 3 paragraph tags and one anchor tag with the proper text in contact.html.
 Reason: None
-Timestamp: 2026-09-24 01:18:51.963892
+Timestamp: 2026-09-24 01:20:10.686753
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The div element contains an iframe element with the proper attributes in contact.html.
-Reason: Assertion failed: The src attribute of the iframe element is not set to the correct URL in contact.html.
-Error : AssertionError - The src attribute of the iframe element is not set to the correct URL in contact.html.
-Timestamp: 2026-09-24 01:18:51.964770
+Reason: None
+Timestamp: 2026-09-24 01:20:10.687367
