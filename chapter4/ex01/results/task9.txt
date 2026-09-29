@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add /* Style rules for main content */ comment
-Reason: None
-Timestamp: 2026-09-29 17:29:46.901502
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:46.487209
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add main content style rules
-Reason: None
-Timestamp: 2026-09-29 17:29:46.901845
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:46.487474

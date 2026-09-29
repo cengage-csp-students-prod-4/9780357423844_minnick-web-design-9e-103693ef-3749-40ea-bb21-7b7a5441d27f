@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add /* Style rules for footer content */ comment
-Reason: None
-Timestamp: 2026-09-29 17:32:57.973323
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:51.336525
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add footer content style rule
-Reason: None
-Timestamp: 2026-09-29 17:32:57.973546
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:51.336815

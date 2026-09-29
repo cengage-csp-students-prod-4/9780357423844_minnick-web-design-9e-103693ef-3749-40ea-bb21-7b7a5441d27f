@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add /* Style rules for contact content */ comment
-Reason: None
-Timestamp: 2026-09-29 17:31:38.626789
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:50.072286
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add contact content style rule
-Reason: None
-Timestamp: 2026-09-29 17:31:38.627174
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
+Timestamp: 2026-09-29 18:09:50.072553
