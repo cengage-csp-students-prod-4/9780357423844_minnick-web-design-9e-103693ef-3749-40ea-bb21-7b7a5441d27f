@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Remove the frameborder attribute from the iframe element in the lessons.html file
 Reason: None
-Timestamp: 2026-09-29 18:03:42.894423
+Timestamp: 2026-09-29 18:05:53.151377
 
 Status: PASSED!
 Check: 2
 Test: Remove the style attribute from the iframe element in the lessons.html file
 Reason: None
-Timestamp: 2026-09-29 18:03:42.895463
+Timestamp: 2026-09-29 18:05:53.152766
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add the class attribute with the value map to the iframe element in the lessons.html file
-Reason: Assertion failed: class attribute not found in iframe element in lessons.html
-Error : AssertionError - class attribute not found in iframe element in lessons.html
-Timestamp: 2026-09-29 18:03:42.896227
+Reason: None
+Timestamp: 2026-09-29 18:05:53.153849
