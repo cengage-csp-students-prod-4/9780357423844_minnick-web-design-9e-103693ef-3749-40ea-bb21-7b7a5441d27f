@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Check if the images have been moved to the images folder in the music directory
 Reason: None
-Timestamp: 2026-09-29 18:10:33.880852
+Timestamp: 2026-09-30 03:10:12.035189
 
 Status: PASSED!
 Check: 2
 Test: Check if the images have been moved from the resources folder
 Reason: None
-Timestamp: 2026-09-29 18:10:33.881054
+Timestamp: 2026-09-30 03:10:12.035304
