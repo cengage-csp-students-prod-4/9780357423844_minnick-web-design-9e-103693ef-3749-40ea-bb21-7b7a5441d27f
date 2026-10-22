@@ -4,25 +4,25 @@ Check: 1
 Test: Open *fonts.google.com* in your browser, search for the DM Serif Display font, change its style from Regular 400 to Regular 400 Italic, and then select the font.Search for and select the Roboto font. Copy and paste the `link` element provided by Google Fonts within the `head` element in the index.html
 Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the index.html file.
 Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the index.html file.
-Timestamp: 2026-10-22 04:20:20.399338
+Timestamp: 2026-10-22 04:57:38.214188
 
 Status: FAILED!
 Check: 2
 Test: Open *fonts.google.com* in your browser, search for the DM Serif Display font, change its style from Regular 400 to Regular 400 Italic, and then select the font.Search for and select the Roboto font. Copy and paste the `link` element provided by Google Fonts within the `head` element in the lessons.html
 Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the lessons.html file.
 Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the lessons.html file.
-Timestamp: 2026-10-22 04:20:20.400502
+Timestamp: 2026-10-22 04:57:38.215686
 
 Status: FAILED!
 Check: 3
 Test: Open *fonts.google.com* in your browser, search for the DM Serif Display font, change its style from Regular 400 to Regular 400 Italic, and then select the font.Search for and select the Roboto font. Copy and paste the `link` element provided by Google Fonts within the `head` element in the contact.html
 Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the contact.html file.
 Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the contact.html file.
-Timestamp: 2026-10-22 04:20:20.401406
+Timestamp: 2026-10-22 04:57:38.216925
 
 Status: FAILED!
 Check: 4
 Test: Open *fonts.google.com* in your browser, search for the DM Serif Display font, change its style from Regular 400 to Regular 400 Italic, and then select the font.Search for and select the Roboto font. Copy and paste the `link` element provided by Google Fonts within the `head` element in the template.html
 Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the template.html file.
 Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the template.html file.
-Timestamp: 2026-10-22 04:20:20.402056
+Timestamp: 2026-10-22 04:57:38.217625
