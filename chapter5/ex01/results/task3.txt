@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the *index.html* file, add a class attribute with a value of `tab-desk` to the  `<div id=“hero”>` tag.
-Reason: Assertion failed: The `div` element with the `id` attribute of `hero` does not contain a class attribute with the value of `tab-desk`.
-Error : AssertionError - The `div` element with the `id` attribute of `hero` does not contain a class attribute with the value of `tab-desk`.
-Timestamp: 2026-10-22 03:50:15.075738
+Reason: None
+Timestamp: 2026-10-22 03:53:56.549348
