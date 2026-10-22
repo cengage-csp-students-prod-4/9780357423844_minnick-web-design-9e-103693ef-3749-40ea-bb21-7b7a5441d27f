@@ -14,9 +14,9 @@ img {
 	max-width: 100%;
 	display: block;
 }
-/* Style rules for mobile viewport.
+/* Style rules for mobile viewport. */
 
-/* Hide tab-desk class.
+/* Hide tab-desk class. */
 .tab-desk {
     display: none;
 }
