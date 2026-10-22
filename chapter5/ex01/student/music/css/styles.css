@@ -60,7 +60,7 @@ main {
 	padding: 2%;
 	background-color: #e5e9fc;
 	overflow: auto;
-	font-family: "Roboto";
+	font-family: "Roboto" , sans-serif;
 }
 
 main p {
