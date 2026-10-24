@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Remove the `width` and `float` declarations for the `#piano`, `#guitar`, `#violin` style rule.
 Reason: None
-Timestamp: 2026-10-24 04:56:43.786894
+Timestamp: 2026-10-24 04:58:15.404580
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Below the `#info` style rule, create a new style rule for the `#info ul` selector that specifies a left margin of **10%**.
-Reason: Assertion failed: The `#info ul` style rule does not specify a left margin of `10%`. Found:0px instead of 109.203px
-Error : AssertionError - The `#info ul` style rule does not specify a left margin of `10%`. Found:0px instead of 109.203px
-Timestamp: 2026-10-24 04:56:43.817439
+Reason: None
+Timestamp: 2026-10-24 04:58:15.448922
