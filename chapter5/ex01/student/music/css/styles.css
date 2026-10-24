@@ -4,7 +4,7 @@ File Name: styles.css
 Date: 09/29/2026
 */
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, ul {
+body, header, nav, main, footer, img, h1 {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -14,23 +14,15 @@ img {
 	max-width: 100%;
 	display: block;
 }
-/* Style rules for mobile viewport. */
-
-/* Hide tab-desk class. */
-.tab-desk {
-    display: none;
-}
 /* Style rules for header content */
 header {
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 3em;
 	color: #373684;
 }
 
-header h1 .dm-serif-display-regular-italic {
-  font-family: "DM Serif Display", serif;
-  font-weight: 400;
-  font-style: italic;
+header h1 {
+	font-style: italic;
 }
 /* Style rules for navigation area */
 nav {
@@ -39,12 +31,12 @@ nav {
 
 nav ul {
 	list-style-type: none;
+	margin: 0;
 	text-align: center;
 }
 
 nav li {
-	border-top: 1px solid #e5e9fc;
-	display: block;
+	display: inline-block;
 	font-size: 2em;
 }
 
@@ -60,7 +52,7 @@ main {
 	padding: 2%;
 	background-color: #e5e9fc;
 	overflow: auto;
-	font-family: 'Roboto' , sans-serif;
+	font-family: Verdana, Arial, sans-serif;
 }
 
 main p {
@@ -68,12 +60,14 @@ main p {
 }
  
 .action {
-	font-size: 1.25em;
+	font-size: 1.75em;
 	color: #373684; 
 	font-weight: bold;
 }
 /* Style rules for lessons content */
 #piano, #guitar, #violin {
+    width: 29%;
+    float: left;
     margin: 0 2%;
 }
  
@@ -81,9 +75,6 @@ main p {
    clear: left;
    background-color: #c0caf7;
    padding: 1% 2%;
-}
-#info ul {
-	margin-left: 10%;
 }
 /* Style rules for contact content */
 #contact {
