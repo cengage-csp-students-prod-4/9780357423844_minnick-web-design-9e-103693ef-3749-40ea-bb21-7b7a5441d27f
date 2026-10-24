@@ -4,7 +4,7 @@ File Name: styles.css
 Date: 09/29/2026
 */
 /* CSS Reset */
-body, header, nav, main, footer, img, h1 {
+body, header, nav, main, footer, img, h1, ul {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -41,12 +41,12 @@ nav {
 
 nav ul {
 	list-style-type: none;
-	margin: 0;
 	text-align: center;
 }
 
 nav li {
-	display: inline-block;
+	border-top: 1px solid #e5e9fc;
+	display: block;
 	font-size: 2em;
 }
 
