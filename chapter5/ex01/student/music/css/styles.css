@@ -45,7 +45,7 @@ nav ul {
 }
 
 nav li {
-	display: block;
+	display: inline-block;
 	font-size: 2em;
 	border-top: 1px solid #e5e9fc;
 }
