@@ -87,6 +87,9 @@ main p {
 #info ul {
 	margin-left: 10%;
 }
+.round{
+	border-radius: 8px;
+}
 /* Style rules for contact content */
 #contact {
     text-align: center;
