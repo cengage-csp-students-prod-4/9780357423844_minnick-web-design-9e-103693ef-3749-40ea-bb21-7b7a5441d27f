@@ -1,24 +1,28 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: In the *index.html* file, update the `h1` element by wrapping both music note entity codes within a `span` element with the class attribute value **tab-desk**.
-Reason: None
-Timestamp: 2026-10-22 03:46:30.690940
+Reason: Assertion failed: The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Error : AssertionError - The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Timestamp: 2026-10-24 03:57:38.091240
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Copy and paste the revised `h1` element over the existing heading 1 element in the **lessons.html** file.
-Reason: None
-Timestamp: 2026-10-22 03:46:30.691898
+Reason: Assertion failed: The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Error : AssertionError - The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Timestamp: 2026-10-24 03:57:38.092497
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Copy and paste the revised `h1` element over the existing heading 1 element in the **contact.html** file.
-Reason: None
-Timestamp: 2026-10-22 03:46:30.692518
+Reason: Assertion failed: The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Error : AssertionError - The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Timestamp: 2026-10-24 03:57:38.093313
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: Copy and paste the revised `h1` element over the existing heading 1 element in the **template.html** file.
-Reason: None
-Timestamp: 2026-10-22 03:46:30.693005
+Reason: Assertion failed: The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Error : AssertionError - The `h1` element does not contain two `span` elements with the class attribute value of `tab-desk`.
+Timestamp: 2026-10-24 03:57:38.094035
