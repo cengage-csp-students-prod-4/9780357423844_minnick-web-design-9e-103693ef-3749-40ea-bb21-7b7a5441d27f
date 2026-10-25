@@ -44,7 +44,8 @@ nav ul {
 	text-align: center;
 }
 
-nav li {border-top: 1px solid #e5e9fc;
+nav li {
+	border-top: 1px solid #e5e9fc;
 	display: block;
 	font-size: 2em;
 	
