@@ -3,13 +3,13 @@ Status: PASSED!
 Check: 1
 Test: 
 Reason: None
-Timestamp: 2026-10-24 05:16:34.651144
+Timestamp: 2026-10-25 00:32:50.112083
 
 Status: PASSED!
 Check: 2
 Test: Remove the declaration for the `margin` property in the `nav ul` style rule.
 Reason: None
-Timestamp: 2026-10-24 05:16:34.651584
+Timestamp: 2026-10-25 00:32:50.112440
 
 Status: FAILED!
 Check: 3
@@ -17,48 +17,48 @@ Test: Modify the `nav li` style rule by changing the display value to block.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56153da9f1da <unknown>
-#1 0x56153d3be5c9 <unknown>
-#2 0x56153d41560f <unknown>
-#3 0x56153d415891 <unknown>
-#4 0x56153d466b04 <unknown>
-#5 0x56153d463d6e <unknown>
-#6 0x56153d4082f8 <unknown>
-#7 0x56153d4090d1 <unknown>
-#8 0x56153da61cec <unknown>
-#9 0x56153da60505 <unknown>
-#10 0x56153da4b3b5 <unknown>
-#11 0x56153da6115a <unknown>
-#12 0x56153da33939 <unknown>
-#13 0x56153da89898 <unknown>
-#14 0x56153da89a35 <unknown>
-#15 0x56153da9db63 <unknown>
-#16 0x7f599b09cb84 <unknown>
-#17 0x7f599b129ecc <unknown>
+#0 0x55f4942ad1da <unknown>
+#1 0x55f493bcc5c9 <unknown>
+#2 0x55f493c2360f <unknown>
+#3 0x55f493c23891 <unknown>
+#4 0x55f493c74b04 <unknown>
+#5 0x55f493c71d6e <unknown>
+#6 0x55f493c162f8 <unknown>
+#7 0x55f493c170d1 <unknown>
+#8 0x55f49426fcec <unknown>
+#9 0x55f49426e505 <unknown>
+#10 0x55f4942593b5 <unknown>
+#11 0x55f49426f15a <unknown>
+#12 0x55f494241939 <unknown>
+#13 0x55f494297898 <unknown>
+#14 0x55f494297a35 <unknown>
+#15 0x55f4942abb63 <unknown>
+#16 0x7fdf4c89cb84 <unknown>
+#17 0x7fdf4c929ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56153da9f1da <unknown>
-#1 0x56153d3be5c9 <unknown>
-#2 0x56153d41560f <unknown>
-#3 0x56153d415891 <unknown>
-#4 0x56153d466b04 <unknown>
-#5 0x56153d463d6e <unknown>
-#6 0x56153d4082f8 <unknown>
-#7 0x56153d4090d1 <unknown>
-#8 0x56153da61cec <unknown>
-#9 0x56153da60505 <unknown>
-#10 0x56153da4b3b5 <unknown>
-#11 0x56153da6115a <unknown>
-#12 0x56153da33939 <unknown>
-#13 0x56153da89898 <unknown>
-#14 0x56153da89a35 <unknown>
-#15 0x56153da9db63 <unknown>
-#16 0x7f599b09cb84 <unknown>
-#17 0x7f599b129ecc <unknown>
+#0 0x55f4942ad1da <unknown>
+#1 0x55f493bcc5c9 <unknown>
+#2 0x55f493c2360f <unknown>
+#3 0x55f493c23891 <unknown>
+#4 0x55f493c74b04 <unknown>
+#5 0x55f493c71d6e <unknown>
+#6 0x55f493c162f8 <unknown>
+#7 0x55f493c170d1 <unknown>
+#8 0x55f49426fcec <unknown>
+#9 0x55f49426e505 <unknown>
+#10 0x55f4942593b5 <unknown>
+#11 0x55f49426f15a <unknown>
+#12 0x55f494241939 <unknown>
+#13 0x55f494297898 <unknown>
+#14 0x55f494297a35 <unknown>
+#15 0x55f4942abb63 <unknown>
+#16 0x7fdf4c89cb84 <unknown>
+#17 0x7fdf4c929ecc <unknown>
 
-Timestamp: 2026-10-24 05:16:35.680499
+Timestamp: 2026-10-25 00:32:51.150949
 
 Status: FAILED!
 Check: 4
@@ -66,45 +66,45 @@ Test: Modify the `nav li` style rule by adding the following declaration: `borde
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56153da9f1da <unknown>
-#1 0x56153d3be5c9 <unknown>
-#2 0x56153d41560f <unknown>
-#3 0x56153d415891 <unknown>
-#4 0x56153d466b04 <unknown>
-#5 0x56153d463d6e <unknown>
-#6 0x56153d4082f8 <unknown>
-#7 0x56153d4090d1 <unknown>
-#8 0x56153da61cec <unknown>
-#9 0x56153da60505 <unknown>
-#10 0x56153da4b3b5 <unknown>
-#11 0x56153da6115a <unknown>
-#12 0x56153da33939 <unknown>
-#13 0x56153da89898 <unknown>
-#14 0x56153da89a35 <unknown>
-#15 0x56153da9db63 <unknown>
-#16 0x7f599b09cb84 <unknown>
-#17 0x7f599b129ecc <unknown>
+#0 0x55f4942ad1da <unknown>
+#1 0x55f493bcc5c9 <unknown>
+#2 0x55f493c2360f <unknown>
+#3 0x55f493c23891 <unknown>
+#4 0x55f493c74b04 <unknown>
+#5 0x55f493c71d6e <unknown>
+#6 0x55f493c162f8 <unknown>
+#7 0x55f493c170d1 <unknown>
+#8 0x55f49426fcec <unknown>
+#9 0x55f49426e505 <unknown>
+#10 0x55f4942593b5 <unknown>
+#11 0x55f49426f15a <unknown>
+#12 0x55f494241939 <unknown>
+#13 0x55f494297898 <unknown>
+#14 0x55f494297a35 <unknown>
+#15 0x55f4942abb63 <unknown>
+#16 0x7fdf4c89cb84 <unknown>
+#17 0x7fdf4c929ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56153da9f1da <unknown>
-#1 0x56153d3be5c9 <unknown>
-#2 0x56153d41560f <unknown>
-#3 0x56153d415891 <unknown>
-#4 0x56153d466b04 <unknown>
-#5 0x56153d463d6e <unknown>
-#6 0x56153d4082f8 <unknown>
-#7 0x56153d4090d1 <unknown>
-#8 0x56153da61cec <unknown>
-#9 0x56153da60505 <unknown>
-#10 0x56153da4b3b5 <unknown>
-#11 0x56153da6115a <unknown>
-#12 0x56153da33939 <unknown>
-#13 0x56153da89898 <unknown>
-#14 0x56153da89a35 <unknown>
-#15 0x56153da9db63 <unknown>
-#16 0x7f599b09cb84 <unknown>
-#17 0x7f599b129ecc <unknown>
+#0 0x55f4942ad1da <unknown>
+#1 0x55f493bcc5c9 <unknown>
+#2 0x55f493c2360f <unknown>
+#3 0x55f493c23891 <unknown>
+#4 0x55f493c74b04 <unknown>
+#5 0x55f493c71d6e <unknown>
+#6 0x55f493c162f8 <unknown>
+#7 0x55f493c170d1 <unknown>
+#8 0x55f49426fcec <unknown>
+#9 0x55f49426e505 <unknown>
+#10 0x55f4942593b5 <unknown>
+#11 0x55f49426f15a <unknown>
+#12 0x55f494241939 <unknown>
+#13 0x55f494297898 <unknown>
+#14 0x55f494297a35 <unknown>
+#15 0x55f4942abb63 <unknown>
+#16 0x7fdf4c89cb84 <unknown>
+#17 0x7fdf4c929ecc <unknown>
 
-Timestamp: 2026-10-24 05:16:36.697391
+Timestamp: 2026-10-25 00:32:52.181358
