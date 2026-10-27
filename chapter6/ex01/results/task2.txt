@@ -1,0 +1,104 @@
+
+Status: FAILED!
+Check: 1
+Test: The tab-desk class was set to display block within the tablet media query.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5638625c51da <unknown>
+#1 0x563861ee45c9 <unknown>
+#2 0x563861f3b60f <unknown>
+#3 0x563861f3b891 <unknown>
+#4 0x563861f8cb04 <unknown>
+#5 0x563861f89d6e <unknown>
+#6 0x563861f2e2f8 <unknown>
+#7 0x563861f2f0d1 <unknown>
+#8 0x563862587cec <unknown>
+#9 0x563862586505 <unknown>
+#10 0x5638625713b5 <unknown>
+#11 0x56386258715a <unknown>
+#12 0x563862559939 <unknown>
+#13 0x5638625af898 <unknown>
+#14 0x5638625afa35 <unknown>
+#15 0x5638625c3b63 <unknown>
+#16 0x7f337b09cb84 <unknown>
+#17 0x7f337b129ecc <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5638625c51da <unknown>
+#1 0x563861ee45c9 <unknown>
+#2 0x563861f3b60f <unknown>
+#3 0x563861f3b891 <unknown>
+#4 0x563861f8cb04 <unknown>
+#5 0x563861f89d6e <unknown>
+#6 0x563861f2e2f8 <unknown>
+#7 0x563861f2f0d1 <unknown>
+#8 0x563862587cec <unknown>
+#9 0x563862586505 <unknown>
+#10 0x5638625713b5 <unknown>
+#11 0x56386258715a <unknown>
+#12 0x563862559939 <unknown>
+#13 0x5638625af898 <unknown>
+#14 0x5638625afa35 <unknown>
+#15 0x5638625c3b63 <unknown>
+#16 0x7f337b09cb84 <unknown>
+#17 0x7f337b129ecc <unknown>
+
+Timestamp: 2026-10-27 16:36:23.784061
+
+Status: FAILED!
+Check: 2
+Test: The `display` value of `.mobile` was set to `none` within the tablet media query.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
+  (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5638625c51da <unknown>
+#1 0x563861ee45c9 <unknown>
+#2 0x563861f3b60f <unknown>
+#3 0x563861f3b891 <unknown>
+#4 0x563861f8cb04 <unknown>
+#5 0x563861f89d6e <unknown>
+#6 0x563861f2e2f8 <unknown>
+#7 0x563861f2f0d1 <unknown>
+#8 0x563862587cec <unknown>
+#9 0x563862586505 <unknown>
+#10 0x5638625713b5 <unknown>
+#11 0x56386258715a <unknown>
+#12 0x563862559939 <unknown>
+#13 0x5638625af898 <unknown>
+#14 0x5638625afa35 <unknown>
+#15 0x5638625c3b63 <unknown>
+#16 0x7f337b09cb84 <unknown>
+#17 0x7f337b129ecc <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
+  (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5638625c51da <unknown>
+#1 0x563861ee45c9 <unknown>
+#2 0x563861f3b60f <unknown>
+#3 0x563861f3b891 <unknown>
+#4 0x563861f8cb04 <unknown>
+#5 0x563861f89d6e <unknown>
+#6 0x563861f2e2f8 <unknown>
+#7 0x563861f2f0d1 <unknown>
+#8 0x563862587cec <unknown>
+#9 0x563862586505 <unknown>
+#10 0x5638625713b5 <unknown>
+#11 0x56386258715a <unknown>
+#12 0x563862559939 <unknown>
+#13 0x5638625af898 <unknown>
+#14 0x5638625afa35 <unknown>
+#15 0x5638625c3b63 <unknown>
+#16 0x7f337b09cb84 <unknown>
+#17 0x7f337b129ecc <unknown>
+
+Timestamp: 2026-10-27 16:36:25.066677
+
+Status: PASSED!
+Check: 3
+Test: The span.tab-desk class was set to display inline within the tablet media query.
+Reason: None
+Timestamp: 2026-10-27 16:36:25.440317
