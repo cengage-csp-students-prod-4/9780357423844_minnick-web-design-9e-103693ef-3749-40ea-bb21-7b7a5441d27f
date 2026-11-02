@@ -133,7 +133,7 @@ footer a {
 }
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print { 
-/* Tablet Viewport: Show tab-desk class, hide mobile class */  
+	/* Tablet Viewport: Show tab-desk class, hide mobile class */  
 .tab-desk {
     display: block;
 } 
@@ -144,4 +144,5 @@ footer a {
 /* Tablet Viewport: Style rule for header content */     
 span.tab-desk {
     display: inline;
-} }
+}
+}
