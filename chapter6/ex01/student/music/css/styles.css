@@ -150,14 +150,10 @@ span.tab-desk {
 /*Tablet Viewport: Style rules for nav area */ 
 nav li {
 	border-top: none;
+	padding: 0.25em 0.5em;
 	display: inline-block;
 	font-size: 1.5em;
 	border-right: 1px solid #e5e9fc;
-}
-
-nav li a {
-	padding: 0.25em 0.5em;
-	display: inline-block;
 }
 
 nav li:last-child {
