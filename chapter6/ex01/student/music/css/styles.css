@@ -156,8 +156,8 @@ nav li {
 }
 
 nav li a {
-	display: block;
 	padding: 0.25em 0.5em;
+	display: inline-block;
 }
 
 nav li:last-child {
