@@ -155,6 +155,10 @@ nav li {
 	border-right: 1px solid #e5e9fc;
 }
 
+nav li a {
+	padding: 0.25em 0.5em;
+}
+
 nav li:last-child {
 	border-right: none;
 }
