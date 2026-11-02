@@ -142,7 +142,7 @@ footer a {
 
 .mobile {
     display: none;  
-	
+
 } 
 
 /* Tablet Viewport: Style rule for header content */     
@@ -162,10 +162,7 @@ nav li:last-child {
 }
 
 nav li a {
-	padding-top: 0.25em;
-	padding-bottom: 0.25em;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
+	padding: 0.25em 0.5em;
 }
 
 }
