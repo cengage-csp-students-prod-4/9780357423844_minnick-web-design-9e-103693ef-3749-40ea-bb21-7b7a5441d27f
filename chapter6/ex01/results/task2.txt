@@ -5,52 +5,52 @@ Test: The tab-desk class was set to display block within the tablet media query.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55e5778ca7ea <unknown>
-#1 0x55e5772099e5 <unknown>
-#2 0x55e57724bf5f <unknown>
-#3 0x55e57724c0f1 <unknown>
-#4 0x55e577289da4 <unknown>
-#5 0x55e577288423 <unknown>
-#6 0x55e577287c39 <unknown>
-#7 0x55e577242cd7 <unknown>
-#8 0x55e577241fee <unknown>
-#9 0x55e577242ac1 <unknown>
-#10 0x55e57788d7ac <unknown>
-#11 0x55e57788bfb5 <unknown>
-#12 0x55e577877315 <unknown>
-#13 0x55e57788cc1a <unknown>
-#14 0x55e57785fbf9 <unknown>
-#15 0x55e5778b4ef8 <unknown>
-#16 0x55e5778b5095 <unknown>
-#17 0x55e5778c9183 <unknown>
-#18 0x7fda1169cb84 <unknown>
-#19 0x7fda11729ecc <unknown>
+#0 0x55a3e4f697ea <unknown>
+#1 0x55a3e48a89e5 <unknown>
+#2 0x55a3e48eaf5f <unknown>
+#3 0x55a3e48eb0f1 <unknown>
+#4 0x55a3e4928da4 <unknown>
+#5 0x55a3e4927423 <unknown>
+#6 0x55a3e4926c39 <unknown>
+#7 0x55a3e48e1cd7 <unknown>
+#8 0x55a3e48e0fee <unknown>
+#9 0x55a3e48e1ac1 <unknown>
+#10 0x55a3e4f2c7ac <unknown>
+#11 0x55a3e4f2afb5 <unknown>
+#12 0x55a3e4f16315 <unknown>
+#13 0x55a3e4f2bc1a <unknown>
+#14 0x55a3e4efebf9 <unknown>
+#15 0x55a3e4f53ef8 <unknown>
+#16 0x55a3e4f54095 <unknown>
+#17 0x55a3e4f68183 <unknown>
+#18 0x7f271169cb84 <unknown>
+#19 0x7f2711729ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55e5778ca7ea <unknown>
-#1 0x55e5772099e5 <unknown>
-#2 0x55e57724bf5f <unknown>
-#3 0x55e57724c0f1 <unknown>
-#4 0x55e577289da4 <unknown>
-#5 0x55e577288423 <unknown>
-#6 0x55e577287c39 <unknown>
-#7 0x55e577242cd7 <unknown>
-#8 0x55e577241fee <unknown>
-#9 0x55e577242ac1 <unknown>
-#10 0x55e57788d7ac <unknown>
-#11 0x55e57788bfb5 <unknown>
-#12 0x55e577877315 <unknown>
-#13 0x55e57788cc1a <unknown>
-#14 0x55e57785fbf9 <unknown>
-#15 0x55e5778b4ef8 <unknown>
-#16 0x55e5778b5095 <unknown>
-#17 0x55e5778c9183 <unknown>
-#18 0x7fda1169cb84 <unknown>
-#19 0x7fda11729ecc <unknown>
+#0 0x55a3e4f697ea <unknown>
+#1 0x55a3e48a89e5 <unknown>
+#2 0x55a3e48eaf5f <unknown>
+#3 0x55a3e48eb0f1 <unknown>
+#4 0x55a3e4928da4 <unknown>
+#5 0x55a3e4927423 <unknown>
+#6 0x55a3e4926c39 <unknown>
+#7 0x55a3e48e1cd7 <unknown>
+#8 0x55a3e48e0fee <unknown>
+#9 0x55a3e48e1ac1 <unknown>
+#10 0x55a3e4f2c7ac <unknown>
+#11 0x55a3e4f2afb5 <unknown>
+#12 0x55a3e4f16315 <unknown>
+#13 0x55a3e4f2bc1a <unknown>
+#14 0x55a3e4efebf9 <unknown>
+#15 0x55a3e4f53ef8 <unknown>
+#16 0x55a3e4f54095 <unknown>
+#17 0x55a3e4f68183 <unknown>
+#18 0x7f271169cb84 <unknown>
+#19 0x7f2711729ecc <unknown>
 
-Timestamp: 2026-11-02 03:56:46.880147
+Timestamp: 2026-11-02 03:58:37.181376
 
 Status: FAILED!
 Check: 2
@@ -58,55 +58,55 @@ Test: The `display` value of `.mobile` was set to `none` within the tablet media
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55e5778ca7ea <unknown>
-#1 0x55e5772099e5 <unknown>
-#2 0x55e57724bf5f <unknown>
-#3 0x55e57724c0f1 <unknown>
-#4 0x55e577289da4 <unknown>
-#5 0x55e577288423 <unknown>
-#6 0x55e577287c39 <unknown>
-#7 0x55e577242cd7 <unknown>
-#8 0x55e577241fee <unknown>
-#9 0x55e577242ac1 <unknown>
-#10 0x55e57788d7ac <unknown>
-#11 0x55e57788bfb5 <unknown>
-#12 0x55e577877315 <unknown>
-#13 0x55e57788cc1a <unknown>
-#14 0x55e57785fbf9 <unknown>
-#15 0x55e5778b4ef8 <unknown>
-#16 0x55e5778b5095 <unknown>
-#17 0x55e5778c9183 <unknown>
-#18 0x7fda1169cb84 <unknown>
-#19 0x7fda11729ecc <unknown>
+#0 0x55a3e4f697ea <unknown>
+#1 0x55a3e48a89e5 <unknown>
+#2 0x55a3e48eaf5f <unknown>
+#3 0x55a3e48eb0f1 <unknown>
+#4 0x55a3e4928da4 <unknown>
+#5 0x55a3e4927423 <unknown>
+#6 0x55a3e4926c39 <unknown>
+#7 0x55a3e48e1cd7 <unknown>
+#8 0x55a3e48e0fee <unknown>
+#9 0x55a3e48e1ac1 <unknown>
+#10 0x55a3e4f2c7ac <unknown>
+#11 0x55a3e4f2afb5 <unknown>
+#12 0x55a3e4f16315 <unknown>
+#13 0x55a3e4f2bc1a <unknown>
+#14 0x55a3e4efebf9 <unknown>
+#15 0x55a3e4f53ef8 <unknown>
+#16 0x55a3e4f54095 <unknown>
+#17 0x55a3e4f68183 <unknown>
+#18 0x7f271169cb84 <unknown>
+#19 0x7f2711729ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55e5778ca7ea <unknown>
-#1 0x55e5772099e5 <unknown>
-#2 0x55e57724bf5f <unknown>
-#3 0x55e57724c0f1 <unknown>
-#4 0x55e577289da4 <unknown>
-#5 0x55e577288423 <unknown>
-#6 0x55e577287c39 <unknown>
-#7 0x55e577242cd7 <unknown>
-#8 0x55e577241fee <unknown>
-#9 0x55e577242ac1 <unknown>
-#10 0x55e57788d7ac <unknown>
-#11 0x55e57788bfb5 <unknown>
-#12 0x55e577877315 <unknown>
-#13 0x55e57788cc1a <unknown>
-#14 0x55e57785fbf9 <unknown>
-#15 0x55e5778b4ef8 <unknown>
-#16 0x55e5778b5095 <unknown>
-#17 0x55e5778c9183 <unknown>
-#18 0x7fda1169cb84 <unknown>
-#19 0x7fda11729ecc <unknown>
+#0 0x55a3e4f697ea <unknown>
+#1 0x55a3e48a89e5 <unknown>
+#2 0x55a3e48eaf5f <unknown>
+#3 0x55a3e48eb0f1 <unknown>
+#4 0x55a3e4928da4 <unknown>
+#5 0x55a3e4927423 <unknown>
+#6 0x55a3e4926c39 <unknown>
+#7 0x55a3e48e1cd7 <unknown>
+#8 0x55a3e48e0fee <unknown>
+#9 0x55a3e48e1ac1 <unknown>
+#10 0x55a3e4f2c7ac <unknown>
+#11 0x55a3e4f2afb5 <unknown>
+#12 0x55a3e4f16315 <unknown>
+#13 0x55a3e4f2bc1a <unknown>
+#14 0x55a3e4efebf9 <unknown>
+#15 0x55a3e4f53ef8 <unknown>
+#16 0x55a3e4f54095 <unknown>
+#17 0x55a3e4f68183 <unknown>
+#18 0x7f271169cb84 <unknown>
+#19 0x7f2711729ecc <unknown>
 
-Timestamp: 2026-11-02 03:56:48.176534
+Timestamp: 2026-11-02 03:58:38.440200
 
 Status: PASSED!
 Check: 3
 Test: The span.tab-desk class was set to display inline within the tablet media query.
 Reason: None
-Timestamp: 2026-11-02 03:56:48.444139
+Timestamp: 2026-11-02 03:58:38.701285
