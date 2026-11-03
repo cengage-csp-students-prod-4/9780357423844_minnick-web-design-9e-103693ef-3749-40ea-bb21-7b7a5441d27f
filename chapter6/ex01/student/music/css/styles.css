@@ -165,4 +165,10 @@ nav li a {
 	padding: 0.25em 0.5em;
 }
 
+/* Tablet Viewport: Style rule for map. */
+.map {
+	width: 500px;
+	height: 450px;
+}
+
 }
