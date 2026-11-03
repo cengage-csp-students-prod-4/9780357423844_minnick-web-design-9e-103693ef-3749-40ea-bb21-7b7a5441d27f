@@ -180,7 +180,15 @@ header {
 	padding: 2%;
 }
 
-/* Desktop Viewport: Style rules for nav area. */
+/* Desktop Viewport: Style rules for nav area */
+nav li a {
+	padding: 0.5em 1.5em;
+}
+
+nav li a:hover {
+	color: #373684;
+	background-color: #e5e9fc;
+}
 }
 
 
