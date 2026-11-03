@@ -150,6 +150,9 @@ span.tab-desk {
     display: inline;
 }
 /*Tablet Viewport: Style rules for nav area */ 
+nav li a {
+	padding: 0.25em 0.5em;
+}
 nav li {
 	border-top: none;
 	display: inline-block;
@@ -161,9 +164,6 @@ nav li:last-child {
 	border-right: none;
 }
 
-nav li a {
-	padding: 0.25em 0.5em;
-}
 
 /* Tablet Viewport: Style rule for map. */
 .map {
