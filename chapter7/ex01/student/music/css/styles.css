@@ -20,7 +20,7 @@ img {
 	 }
 /*Style rules for mobile viewport*/
 aside {
-	text_align: center;
+	text-align: center;
 	font-size: 1.5em;
 	font-weight: bold;
 	color: #373684;
@@ -161,6 +161,11 @@ footer a {
 }
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print { 
+.grid{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 20px;
+}
 
 
 	
