@@ -216,6 +216,10 @@ figcaption {
 aside {
 	grid-column: 1 span 4;
 }
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
 
 /* Desktop Viewport: Style rule for header */
 header {
