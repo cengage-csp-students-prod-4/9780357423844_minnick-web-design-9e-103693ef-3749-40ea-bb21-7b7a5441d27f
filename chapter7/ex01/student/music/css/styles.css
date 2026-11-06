@@ -210,6 +210,12 @@ nav li:last-child {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 769px), print {
+figcaption {
+	font-size: 1em;
+}
+aside {
+	grid-column: 1 span 4;
+}
 
 /* Desktop Viewport: Style rule for header */
 header {
