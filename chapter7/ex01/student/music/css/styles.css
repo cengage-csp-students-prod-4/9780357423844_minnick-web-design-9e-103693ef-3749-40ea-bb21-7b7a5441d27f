@@ -214,7 +214,7 @@ figcaption {
 	font-size: 1em;
 }
 aside {
-	grid-column: 1 span 4;
+	grid-column: 1 / span 4;
 }
 .grid {
 	display: grid;
