@@ -300,6 +300,15 @@ main h3 {
 table {
 	width: 70%;
 }
+/* Desktop Viewport: Style rules for for elements */
+.form-grid{
+	display: grid;
+	grid-template-columns: auto auto;
+	gap: 20px;
+}
+.btn {
+	grid-column: 1/ span 2;
+}
 }
 
 /* Media Query for Print */
