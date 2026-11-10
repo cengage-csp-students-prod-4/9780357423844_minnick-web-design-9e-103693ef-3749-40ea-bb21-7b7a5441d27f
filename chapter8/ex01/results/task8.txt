@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Nest two `fieldsets` within the `form` element.
+Reason: None
+Timestamp: 2026-11-10 03:10:48.981907
+
+Status: PASSED!
+Check: 2
+Test: Include a `legend` for each `fieldset`.
+Reason: None
+Timestamp: 2026-11-10 03:10:48.983739
+
+Status: PASSED!
+Check: 3
+Test: Use the text  **Customer Information** for the first `fieldset legend`, and **Musical Interest**  for the second `fieldset legend`.
+Reason: None
+Timestamp: 2026-11-10 03:10:48.985543
