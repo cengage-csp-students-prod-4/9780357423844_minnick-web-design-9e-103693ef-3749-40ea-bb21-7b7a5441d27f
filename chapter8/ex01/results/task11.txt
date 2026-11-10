@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Below the second `fieldset`, add a submit button.
-Reason: Assertion failed: submit button not found
-Error : AssertionError - submit button not found
-Timestamp: 2026-11-10 03:24:36.544222
+Reason: None
+Timestamp: 2026-11-10 03:26:58.423614
