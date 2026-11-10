@@ -186,7 +186,7 @@ fieldset legend {
 }
 label{
 	display: block;
-	top: 3%;
+	padding-top: 3%;
 }
 #submit{
 	margin: 0 auto;
