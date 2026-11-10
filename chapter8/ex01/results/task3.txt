@@ -1,0 +1,13 @@
+
+Status: PASSED!
+Check: 1
+Test: Insert a `table` element below the  `h2` element.
+Reason: None
+Timestamp: 2026-11-10 02:43:32.669300
+
+Status: FAILED!
+Check: 2
+Test: Add a `caption` element with the text **Rental Rates**.
+Reason: Assertion failed: caption text does not match
+Error : AssertionError - caption text does not match
+Timestamp: 2026-11-10 02:43:32.670905
