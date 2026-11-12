@@ -253,6 +253,11 @@ nav li:last-child {
 	width: 500px;
 	height: 450px;
 }
+/* Tablet Viewpoint: Style rule for form element */
+form {
+	width: 70%;
+	margin: 0px auto;
+}
 }
 
 /* Media Query for Desktop Viewport */
