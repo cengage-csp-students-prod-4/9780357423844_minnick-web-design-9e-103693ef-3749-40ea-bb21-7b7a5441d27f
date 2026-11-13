@@ -244,7 +244,7 @@ aside {
 
 } 
 
-.mobile {
+.mobile, .mobil-nav {
     display: none;  
 
 } 
