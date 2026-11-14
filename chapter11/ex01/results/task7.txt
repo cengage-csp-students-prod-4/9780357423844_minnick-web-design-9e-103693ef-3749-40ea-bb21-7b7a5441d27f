@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: In the `head` element, below the `meta` character set tag, insert a description `meta` tag with a `content` value of **Our instructors are knowledgeable and professional.**.
-Reason: Assertion failed: Description meta tag content in instructors.html is Our instructors are knowledgeable and proffessional instead of Our instructors are knowledgeable and professional.
-Error : AssertionError - Description meta tag content in instructors.html is Our instructors are knowledgeable and proffessional instead of Our instructors are knowledgeable and professional.
-Timestamp: 2026-11-14 01:02:02.327014
+Reason: Assertion failed: Description meta tag content in instructors.html is Our instructors are knowledgeable and professional instead of Our instructors are knowledgeable and professional.
+Error : AssertionError - Description meta tag content in instructors.html is Our instructors are knowledgeable and professional instead of Our instructors are knowledgeable and professional.
+Timestamp: 2026-11-14 01:04:37.682720
