@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: The bg-dark-purple class has been added to the nav element
 Reason: None
-Timestamp: 2026-11-14 02:28:24.730321
+Timestamp: 2026-11-14 02:29:04.387489
 
 Status: PASSED!
 Check: 2
 Test: The hero class has been added to the header element
 Reason: None
-Timestamp: 2026-11-14 02:28:24.733308
+Timestamp: 2026-11-14 02:29:04.390468
 
 Status: PASSED!
 Check: 3
 Test: The welcome class has been added to the div element nested within the header element
 Reason: None
-Timestamp: 2026-11-14 02:28:24.736101
+Timestamp: 2026-11-14 02:29:04.393217
 
 Status: PASSED!
 Check: 4
 Test: The text-dark-purple class has been added to the h1 element within the header element
 Reason: None
-Timestamp: 2026-11-14 02:28:24.739242
+Timestamp: 2026-11-14 02:29:04.395920
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: The bg-dark-purple class has been added to the anchor element within the header element
-Reason: Assertion failed: bg-dark-purple class is missing from the anchor element within the header element
-Error : AssertionError - bg-dark-purple class is missing from the anchor element within the header element
-Timestamp: 2026-11-14 02:28:24.741997
+Reason: None
+Timestamp: 2026-11-14 02:29:04.398588
 
 Status: PASSED!
 Check: 6
 Test: The bg-dark-purple class has been added to the footer element
 Reason: None
-Timestamp: 2026-11-14 02:28:24.745792
+Timestamp: 2026-11-14 02:29:04.402124
