@@ -1,6 +1,6 @@
 /*
 Student Name: Michael Hitchcock
-File Name: index.html
+File Name: script.js
 Date: 11/12/2026
 */
 function hamburger() {
